@@ -43,3 +43,10 @@ git init
 git remote add origin git@github.com:SilvesterChiao/Nonsense.git
 git push -u origin master
 ```
+
+## 功能
+
+显示  
+城市, 温度, 时间, 空气质量, 风向, 预报  
+添加删除移动  城市  
+详细
